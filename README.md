@@ -16,6 +16,13 @@ Aprenderemos:
 
 ---
 
+Descargar archivos:
+
+git 
+git clone https://github.com/Alterlapsus/ProyectoWebUniversidad.git
+
+---
+
 Realizado por:
 
 - Israel De León
