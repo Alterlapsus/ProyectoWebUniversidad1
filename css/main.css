@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&family=Open+Sans:wght@600;700&family=PT+Sans:wght@700&display=swap");
+
+
+/* general */
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+
+main{
+    position: relative;
+}
+
+
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+/* vanta.js */
+
+#vanta {
+    z-index: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  /* header */
+  .header__title{
+    text-align: center;
+    text-transform: uppercase;
+    margin: 6rem 0;
+    color: #fff;
+    font-size: 3rem;
+}
+
+
+/* header botones */
+
+.header__botones{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.cta1{
+    background-color: #0097A7;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 20rem;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+.cta1:hover{
+    background-color: #fcb243;
+    color: #000;
+    transition: 0.3s;
+}
+
+.cta2{
+    background-color: #F77062;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 15rem;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+.cta2:hover{
+    background-color: #F1E7DB;
+    color: #000;
+    transition: 0.3s;
+}
+
+.cta3{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 19rem;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+.cta3:hover{
+    background-color: #00D8FF;
+    color: #000;
+    transition: 0.3s;
+}
