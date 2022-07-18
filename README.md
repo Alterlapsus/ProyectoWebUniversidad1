@@ -12,8 +12,7 @@ Aprenderemos:
 
 <a href="https://proyectoisrael.netlify.app/">Ver WebSite</a>
 
-[![Proyecto-Desarrollo.png](https://i.postimg.cc/pX7Z1NCN/Proyecto-Desarrollo.png)](https://postimg.cc/w7XL7GnF)
-
+[![Proyecto-Desarrollo.png](https://i.postimg.cc/Kj86QXNk/Proyecto-Desarrollo.png)](https://postimg.cc/MMg3KFgq)
 ---
 
 Descargar archivos:
