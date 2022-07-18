@@ -1,6 +1,6 @@
 # ProyectoWebUniversidad
 
-Se realiza un proyecto sencillo de la clase de desarrollo web
+Se realiza un proyecto sencillo de la clase desarrollo web
 
 ---
 Aprenderemos:
