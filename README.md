@@ -5,7 +5,8 @@ Se realiza un proyecto sencillo de la clase desarrollo web
 ---
 Aprenderemos:
 
-- HTML y CSS
+- HTML
+- CSS
 - Vanta.js Fondos de sitios web animados.
 
 ---
