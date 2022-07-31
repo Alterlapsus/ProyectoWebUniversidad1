@@ -18,7 +18,7 @@ Aprenderemos:
 Descargar archivos:
 
 - git 
-- git clone https://github.com/Alterlapsus/ProyectoWebUniversidad.git
+- git clone https://github.com/Alterlapsus/ProyectoWebUniversidad1.git
 
 ---
 
